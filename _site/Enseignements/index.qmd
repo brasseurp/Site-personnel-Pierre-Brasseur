@@ -1,7 +1,3 @@
----
-title: "Enseignements"
----
-
 # **Activités d'enseignement**
 
 Les syllabus de mes cours sont disponibles sur mon site internet
@@ -90,8 +86,8 @@ Paris Descartes, Créteil, et Grenoble.
 
 ## **Autres enseignements :**
 
--   **Sociologie du handicap** — Université Saint-Étienne, Paris
-    Diderot, DIU\
+-   [Sociologie du handicap](pierrebrasseur.fr/enseignements/handicap)—
+    Université Saint-Étienne, Paris Diderot, DIU\
     CM : 30 étudiants - 3 heures\
     *2021-2023, Vacataire*
 
